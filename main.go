@@ -27,7 +27,7 @@ package main
 
 import (
 	"fmt"
-	"golang.org/x/crypto/ssh"
+	"golang.org/x/tools/crypto/ssh"
 	"log"
 	"os"
 	"os/signal"

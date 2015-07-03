@@ -27,7 +27,7 @@ package main
 
 import (
 	"bufio"
-	"golang.org/x/crypto/ssh"
+	"golang.org/x/tools/crypto/ssh"
 	"strconv"
 	"strings"
 	"time"
